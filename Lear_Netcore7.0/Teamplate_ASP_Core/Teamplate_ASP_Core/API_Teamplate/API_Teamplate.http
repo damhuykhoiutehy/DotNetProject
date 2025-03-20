@@ -1,0 +1,6 @@
+@API_Teamplate_HostAddress = http://localhost:5293
+
+GET {{API_Teamplate_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Teamplate_ASP_Core\\Teamplate_ASP_Core.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "API_Teamplate\\API_Teamplate.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Data\\Data.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\18.CShapProject\\Lear_Netcore7.0\\Teamplate_ASP_Core\\Teamplate_ASP_Core\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C30FDAE9-A03D-4F63-B43C-F9EAA6B03C78}|API_Teamplate\\API_Teamplate.csproj|e:\\18.cshapproject\\lear_netcore7.0\\teamplate_asp_core\\teamplate_asp_core\\api_teamplate\\controllers\\environmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C30FDAE9-A03D-4F63-B43C-F9EAA6B03C78}|API_Teamplate\\API_Teamplate.csproj|solutionrelative:api_teamplate\\controllers\\environmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C30FDAE9-A03D-4F63-B43C-F9EAA6B03C78}|API_Teamplate\\API_Teamplate.csproj|e:\\18.cshapproject\\lear_netcore7.0\\teamplate_asp_core\\teamplate_asp_core\\api_teamplate\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C30FDAE9-A03D-4F63-B43C-F9EAA6B03C78}|API_Teamplate\\API_Teamplate.csproj|solutionrelative:api_teamplate\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B322A7C-3B06-466C-B2EE-4F9782E401DB}|Teamplate_ASP_Core\\Teamplate_ASP_Core.csproj|e:\\18.cshapproject\\lear_netcore7.0\\teamplate_asp_core\\teamplate_asp_core\\teamplate_asp_core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B322A7C-3B06-466C-B2EE-4F9782E401DB}|Teamplate_ASP_Core\\Teamplate_ASP_Core.csproj|solutionrelative:teamplate_asp_core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C30FDAE9-A03D-4F63-B43C-F9EAA6B03C78}|API_Teamplate\\API_Teamplate.csproj|e:\\18.cshapproject\\lear_netcore7.0\\teamplate_asp_core\\teamplate_asp_core\\api_teamplate\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C30FDAE9-A03D-4F63-B43C-F9EAA6B03C78}|API_Teamplate\\API_Teamplate.csproj|solutionrelative:api_teamplate\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C5CCC3-3513-46EB-B442-266300E20F80}|Data\\Data.csproj|e:\\18.cshapproject\\lear_netcore7.0\\teamplate_asp_core\\teamplate_asp_core\\data\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C5CCC3-3513-46EB-B442-266300E20F80}|Data\\Data.csproj|solutionrelative:data\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C30FDAE9-A03D-4F63-B43C-F9EAA6B03C78}|API_Teamplate\\API_Teamplate.csproj|e:\\18.cshapproject\\lear_netcore7.0\\teamplate_asp_core\\teamplate_asp_core\\api_teamplate\\controllers\\hocsinhdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C30FDAE9-A03D-4F63-B43C-F9EAA6B03C78}|API_Teamplate\\API_Teamplate.csproj|solutionrelative:api_teamplate\\controllers\\hocsinhdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C5CCC3-3513-46EB-B442-266300E20F80}|Data\\Data.csproj|e:\\18.cshapproject\\lear_netcore7.0\\teamplate_asp_core\\teamplate_asp_core\\data\\hocsinhdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C5CCC3-3513-46EB-B442-266300E20F80}|Data\\Data.csproj|solutionrelative:data\\hocsinhdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B322A7C-3B06-466C-B2EE-4F9782E401DB}|Teamplate_ASP_Core\\Teamplate_ASP_Core.csproj|e:\\18.cshapproject\\lear_netcore7.0\\teamplate_asp_core\\teamplate_asp_core\\teamplate_asp_core\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B322A7C-3B06-466C-B2EE-4F9782E401DB}|Teamplate_ASP_Core\\Teamplate_ASP_Core.csproj|solutionrelative:teamplate_asp_core\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B322A7C-3B06-466C-B2EE-4F9782E401DB}|Teamplate_ASP_Core\\Teamplate_ASP_Core.csproj|e:\\18.cshapproject\\lear_netcore7.0\\teamplate_asp_core\\teamplate_asp_core\\teamplate_asp_core\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B322A7C-3B06-466C-B2EE-4F9782E401DB}|Teamplate_ASP_Core\\Teamplate_ASP_Core.csproj|solutionrelative:teamplate_asp_core\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 192,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnvironmentController.cs",
+              "DocumentMoniker": "E:\\18.CShapProject\\Lear_Netcore7.0\\Teamplate_ASP_Core\\Teamplate_ASP_Core\\API_Teamplate\\Controllers\\EnvironmentController.cs",
+              "RelativeDocumentMoniker": "API_Teamplate\\Controllers\\EnvironmentController.cs",
+              "ToolTip": "E:\\18.CShapProject\\Lear_Netcore7.0\\Teamplate_ASP_Core\\Teamplate_ASP_Core\\API_Teamplate\\Controllers\\EnvironmentController.cs",
+              "RelativeToolTip": "API_Teamplate\\Controllers\\EnvironmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T09:30:07.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "E:\\18.CShapProject\\Lear_Netcore7.0\\Teamplate_ASP_Core\\Teamplate_ASP_Core\\API_Teamplate\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "API_Teamplate\\Controllers\\ProductsController.cs",
+              "ToolTip": "E:\\18.CShapProject\\Lear_Netcore7.0\\Teamplate_ASP_Core\\Teamplate_ASP_Core\\API_Teamplate\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "API_Teamplate\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T08:20:16.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HocSinhDetailController.cs",
+              "DocumentMoniker": "E:\\18.CShapProject\\Lear_Netcore7.0\\Teamplate_ASP_Core\\Teamplate_ASP_Core\\API_Teamplate\\Controllers\\HocSinhDetailController.cs",
+              "RelativeDocumentMoniker": "API_Teamplate\\Controllers\\HocSinhDetailController.cs",
+              "ToolTip": "E:\\18.CShapProject\\Lear_Netcore7.0\\Teamplate_ASP_Core\\Teamplate_ASP_Core\\API_Teamplate\\Controllers\\HocSinhDetailController.cs",
+              "RelativeToolTip": "API_Teamplate\\Controllers\\HocSinhDetailController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T06:22:33.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\18.CShapProject\\Lear_Netcore7.0\\Teamplate_ASP_Core\\Teamplate_ASP_Core\\Teamplate_ASP_Core\\Program.cs",
+              "RelativeDocumentMoniker": "Teamplate_ASP_Core\\Program.cs",
+              "ToolTip": "E:\\18.CShapProject\\Lear_Netcore7.0\\Teamplate_ASP_Core\\Teamplate_ASP_Core\\Teamplate_ASP_Core\\Program.cs",
+              "RelativeToolTip": "Teamplate_ASP_Core\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T02:58:31.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\18.CShapProject\\Lear_Netcore7.0\\Teamplate_ASP_Core\\Teamplate_ASP_Core\\Data\\Product.cs",
+              "RelativeDocumentMoniker": "Data\\Product.cs",
+              "ToolTip": "E:\\18.CShapProject\\Lear_Netcore7.0\\Teamplate_ASP_Core\\Teamplate_ASP_Core\\Data\\Product.cs",
+              "RelativeToolTip": "Data\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T08:18:20.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HocSinhDetail.cs",
+              "DocumentMoniker": "E:\\18.CShapProject\\Lear_Netcore7.0\\Teamplate_ASP_Core\\Teamplate_ASP_Core\\Data\\HocSinhDetail.cs",
+              "RelativeDocumentMoniker": "Data\\HocSinhDetail.cs",
+              "ToolTip": "E:\\18.CShapProject\\Lear_Netcore7.0\\Teamplate_ASP_Core\\Teamplate_ASP_Core\\Data\\HocSinhDetail.cs",
+              "RelativeToolTip": "Data\\HocSinhDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T06:19:56.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\18.CShapProject\\Lear_Netcore7.0\\Teamplate_ASP_Core\\Teamplate_ASP_Core\\Teamplate_ASP_Core\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Teamplate_ASP_Core\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\18.CShapProject\\Lear_Netcore7.0\\Teamplate_ASP_Core\\Teamplate_ASP_Core\\Teamplate_ASP_Core\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Teamplate_ASP_Core\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T03:01:49.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\18.CShapProject\\Lear_Netcore7.0\\Teamplate_ASP_Core\\Teamplate_ASP_Core\\Teamplate_ASP_Core\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Teamplate_ASP_Core\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\18.CShapProject\\Lear_Netcore7.0\\Teamplate_ASP_Core\\Teamplate_ASP_Core\\Teamplate_ASP_Core\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Teamplate_ASP_Core\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T03:01:23.583Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 208,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "E:\\18.CShapProject\\Lear_Netcore7.0\\Teamplate_ASP_Core\\Teamplate_ASP_Core\\API_Teamplate\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "API_Teamplate\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "E:\\18.CShapProject\\Lear_Netcore7.0\\Teamplate_ASP_Core\\Teamplate_ASP_Core\\API_Teamplate\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "API_Teamplate\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T09:30:13.62Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
